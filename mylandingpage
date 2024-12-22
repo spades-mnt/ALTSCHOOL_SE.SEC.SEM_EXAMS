@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Welcome to Michael's landing page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        
+        main {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+        }
+        a {
+            text-decoration: none;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Michael's landing page</h1>
+    </header>
+    
+    <main>
+         <h3><b>Name:Michael Nuertey</b></h3>
+         <h3><b>Project Description: Deploying an html file to the Apache server being hosted on AWS and attaching an SSL certificate</b></h3>
+
+            <br>
+            
+            <p>My name is Michael Nuertey.I am a 28 year old man and i come from Ghana.I work as a goldsmith transitioning to tech.i have worked as teacher for 9 years.
+                i am joining Altschool to fulfill my dream of becoming a cloud engineer. My goals for the School of Engineering program are to gain enough knowledge
+                , skill and passion to help me in this path.So far, things have been quite challenging, especially because I am new to this field of tech. However, its been worth every penny and I am enjoying and embracing this new challenge. In comparism with my old self, i will say i have made vast improvement and I am enjoying my growth</p>
+      
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Michael Nuertey</p>
+    </footer>
+</body>
+</html>
+
+  
+
