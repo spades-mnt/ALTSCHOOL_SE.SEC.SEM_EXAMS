@@ -1,6 +1,7 @@
 
 This project is about how I deployed an html file to my AWS server by provisioning it with the Apache server. This readme seeks to show the processes i adopted in ensuring the completion of this project.
 
+PROJECT URL: mackle.duckdns.org
 
 STEP 1. CREATING AN EC2 INSTANCE ON AWS.
 
